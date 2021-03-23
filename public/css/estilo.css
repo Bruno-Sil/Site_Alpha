@@ -1,0 +1,16 @@
+header{
+	padding:150px 0 30px 0;
+	background: linear-gradient(90deg, #96c74f 0%, #3fbb96 100%);
+}
+
+footer{
+	padding: 20px 0;
+}
+
+.navbar-default{
+	background: linear-gradient(90deg, #96c74f 0%, #3fbb96 100%);
+}
+
+#course{
+	padding:80px 0;
+}
